@@ -3,7 +3,7 @@ Initial goal of this project was to automate fall detection in worker hub facili
 
 ### Background: 
   - The following project was completed by Colin Jones and I when we worked at Purolator as an Innovations Solutions Interns
-  - Since it was an exploration project (not our main task) and could be beneficial during COVID-19 as explained above, my manager, Elizabeth Hendreson, granted me the permission to share some sneak peeks on my github for future employers :)
+  - Since it was an exploration project (not our main task) and could be beneficial during COVID-19 as explained above, my manager, Elizabeth Henderson, granted me the permission to share some sneak peeks on my github for future employers :)
   - [Documentation](https://drive.google.com/file/d/1fb4BSy_Yn2PCR-3MFiN9ZP0IY4pKjeKl/view?usp=sharing) 
   - [Architecture Overview](https://drive.google.com/file/d/16-EwtBweFE5030ZlX1l9fDQh2LpX9xri/view?usp=sharing)
   - [Demo](https://drive.google.com/file/d/1SLsBEKZuDxi8qT0vcxnZ1mK0EnzK19WV/view?usp=sharing)
