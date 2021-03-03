@@ -11,7 +11,6 @@ Initial goal of this project was to automate fall detection in worker hub facili
 ### Shared files: 
 
   - dataset_augmentation.py - Python script which augments an image dataset.
-  - detection_function.py - Python based lambda function which enables the camera to make inferences in real time.
   - notifier_function.js - Node.js based lambda function which triggers a text notification when camera detects fallen person. 
 
 ### Tools Used:
